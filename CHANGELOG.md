@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## [0.12.0] - 3/16/2021
 TileLayerOptions now takes some additional options, templateFunction,
 tileBuilder, tilesContainerBuilder, and evictErrorTileStrategy
